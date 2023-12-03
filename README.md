@@ -2,9 +2,12 @@
 # Usage
 ## use as cli
 
+go install github.com/warjiang/consul-client/cmd/sd
+
+
 ```bash
-lookup {service name}
-lookup {service name} --tag {tag}
+sd lookup {service name}
+sd lookup {service name} --tag {tag}
 ```
 
 
