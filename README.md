@@ -2,7 +2,7 @@
 # Usage
 ## use as cli
 
-go install github.com/warjiang/consul-client/cmd/sd
+`go install github.com/warjiang/consul-client/cmd/sd`
 
 
 ```bash
